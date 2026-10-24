@@ -18,3 +18,4 @@ Open `index.html` in a browser, or upload the whole folder to any static host (N
 - **Visits and Last seen** use the visitor's own browser storage when hosted outside claude.ai, so each person only sees their own count. For one shared count for everyone, connect a backend (Firebase, Supabase or a small PHP/MySQL endpoint) in the "visits + last seen" section of `js/main.js`.
 - **Progress bar** is set to 34%. Change `scaleX(.34)` in `css/style.css` and the `34` in the progress count-up in `js/main.js`.
 - Fonts load from Google Fonts: Bodoni Moda, Homemade Apple, DM Sans.
+# ALNA_2.O
